@@ -12,6 +12,8 @@ Objectives:
 With sliding menus to select the mode.
 
 
+
+
 ***SEQUENCER MODE***
 ![image](https://github.com/user-attachments/assets/df779f71-00f6-4f63-8d6d-ec849f8ba01f)
 
