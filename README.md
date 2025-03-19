@@ -1,5 +1,5 @@
-# MIDI-sequecer
-***Simple polyphonic MIDI sequencer based in the esp32 with oled display***
+# MIDI-Multitool
+***Polyphonic MIDI sequencer, arpeggiator and looper based in the esp32 with oled display***
 
 Objectives:
   - Recording and playback of polyphonic sequences ✔
