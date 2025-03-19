@@ -1,6 +1,8 @@
 # MIDI-Multitool
 ***Polyphonic MIDI sequencer, arpeggiator and looper based in the esp32 with oled display***
 Designed to connect any MIDI keyboard and give it many more features
+
+
 Objectives:
   - Recording and playback of polyphonic sequences ✔
   - Arpeggiator (in progress)
